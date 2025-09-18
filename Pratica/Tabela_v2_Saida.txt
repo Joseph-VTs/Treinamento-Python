@@ -1,0 +1,9 @@
+📦 Tabela de Vendas de Produtos
+
+Produto         | Descrição                          |   Custo |  Venda |  Lucro | Data Venda   | Cliente
+--------------------------------------------------------------------------------------------------------------
+Armário 1.0     | Armário de Madeira 2 Portas        | R$ 50.00 | R$ 98.00 | R$ 48.00 | 17/08/2023   | Anderson Silva
+Armário 1.0     | Armário de Madeira 2 Portas        | R$ 50.00 | R$ 98.00 | R$ 48.00 | 17/08/2023   | Maria José
+--------------------------------------------------------------------------------------------------------------
+🧮 Total de Lucro: R$ 96.00  
+👥 Total de Clientes: 2
