@@ -120,8 +120,7 @@ public class Controle_Pedidos {
         Produto_01.setPreco(5.50);
 
         // System.out.println(Produto_01.toString());
-        System.out.println("Lista de Produtos: " +
-                "\n-> Nome:" + Produto_01.getNome() + " | Código: " + Produto_01.getCodigo() + " | Preço: " + Produto_01.getPreco());
+        System.out.println("Lista de Produtos:" + "\n-> Nome: " + Produto_01.getNome() + " | Código: " + Produto_01.getCodigo() + " | Preço: " + Produto_01.getPreco());
     }
 }
 
